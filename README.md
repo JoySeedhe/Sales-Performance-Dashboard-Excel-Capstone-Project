@@ -26,9 +26,11 @@ Finally, I chose a clean, minimal theme. I kept the colors soft and consistent w
 </br>
 
 ### Results
-And here is the final product - [My first Excel Interactive Dashboard.]()
+And here is the final product - ![My first Excel Interactive Dashboard.](https://github.com/JoySeedhe/Sales-Performance-Dashboard-Excel-Capstone-Project/blob/main/U.S.%20Superstore%20(Retail).xlsx)
 
-![]()
+
+![Excel-Dashboard](https://github.com/user-attachments/assets/47b2fd81-8e89-4a0c-bd6c-55f1a062ee1e)
+
 
 
 
